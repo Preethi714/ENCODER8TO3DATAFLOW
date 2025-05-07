@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+## ENCODER 8TO3 DATAFLOW Modelling
+## Developed by: Preethi.K
+## RegisterNumber: 212224240118
 
 **AIM:**
 
@@ -40,9 +42,6 @@ An encoder is a digital circuit that converts a set of binary inputs into a uniq
 
 **PROGRAM**
 ```
-Developed by: Preethi.K
-RegisterNumber: 212224240118
-
 module EX5(din,a,b,c);
 input[0:7]din;
 output a;
